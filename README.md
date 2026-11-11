@@ -3,7 +3,7 @@
 ### NDVI-Based Drone Navigation using Reinforcement Learning  
 **(PPO vs DQN vs A2C: A Comparative Study)**
 
-**Author**: Ayushman M. (https://github.com/aymisxx)
+**Author**: Ayushman M. (https://github.com/infinitepriest)
 
 ---
 
@@ -122,9 +122,9 @@ PPO consistently achieves the highest episode returns and coverage ratios, indic
 
 ## Citation
 
-> Ayushman Mishra, *AgriDroneRL: NDVI-Based Drone Navigation using Reinforcement Learning*, github.com/aymisxx/AgriDroneRL
+> Ayushman Mishra, *AgriDroneRL: NDVI-Based Drone Navigation using Reinforcement Learning*, github.com/infinitepriest/AgriDroneRL
 
-> Ayushman Mishra, *MicroUAV-2D: Lightweight 2D Down-Camera UAV Simulation Environment for Rapid Autonomy Prototyping*, github.com/aymisxx/MicroUAV-2D
+> Ayushman Mishra, *MicroUAV-2D: Lightweight 2D Down-Camera UAV Simulation Environment for Rapid Autonomy Prototyping*, github.com/infinitepriest/MicroUAV-2D
 
 ---
 
