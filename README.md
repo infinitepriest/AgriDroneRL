@@ -28,7 +28,7 @@ Efficient monitoring of large agricultural fields is critical for early detectio
 ### **Simulation Environment**
 
 The custom made simulation environment used:
-> https://github.com/aymisxx/MicroUAV-2D
+> https://github.com/infinitepriest/MicroUAV-2D
 
 ---
 
